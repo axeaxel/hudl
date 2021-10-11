@@ -1,0 +1,21 @@
+{
+  "name": "hudl",
+  "version": "1.0.0",
+  "description": "tests for hudl",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axeaxel/hudl.git"
+  },
+  "author": "Alexandru Chircu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axeaxel/hudl/issues"
+  },
+  "homepage": "https://github.com/axeaxel/hudl#readme"
+}
