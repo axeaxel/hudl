@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "tests for hudl",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "cypress": "^8.6.0",
+    "har-validator": "^5.1.5",
+    "npm-cli": "^0.1.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "cypress run"
